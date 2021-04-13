@@ -1,0 +1,15 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+legend {
+  border-radius: 4px;
+}
+.required {
+  color: red;
+}
+.blueTxt {
+  color: rgb(0, 102, 255);
+}
+.errorMsg {
+  color: red;
+}
