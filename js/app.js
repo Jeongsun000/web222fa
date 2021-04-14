@@ -1,3 +1,10 @@
+/**
+  Name: Jeongseon Yoon
+  Student number: 109687202
+  Email: jyoon39@myseneca.ca
+  Session: WEB222 NDD
+  Dated: April 14, 2021
+*/
 // An instance of our SimpleMap, created below when the window loads.
 let map;
 
@@ -81,7 +88,7 @@ function start() {
     // TODO - get the value from the search form input and pass it to the
     // search() function (already defined in js/search.js)
     console.log("TODO - call search() function with value from search form");
-    search(searchForm.address.value);
+    search(searchForm.address.value.trim());
   };
 
   // Show all observations at first

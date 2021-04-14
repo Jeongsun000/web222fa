@@ -1,3 +1,10 @@
+/**
+  Name: Jeongseon Yoon
+  Student number: 109687202
+  Email: jyoon39@myseneca.ca
+  Session: WEB222 NDD
+  Dated: April 14, 2021
+*/
 // Add the text to the <span>...<span> element in the element with id=observation-title
 function updateTitle(text) {
   const title = document.querySelector("#observation-title > span");

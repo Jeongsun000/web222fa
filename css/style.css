@@ -1,3 +1,10 @@
+/**
+  Name: Jeongseon Yoon
+  Student number: 109687202
+  Email: jyoon39@myseneca.ca
+  Session: WEB222 NDD
+  Dated: April 14, 2021
+*/
 /* Header */
 #hero {
   width: 100%;
@@ -122,11 +129,12 @@ footer {
 /**
  * TODO: style the Search Form
  */
+#search {
+  margin-bottom: 5px;
+}
 #address {
   display: inline;
-  margin-bottom: 10px;
 }
 #search_button {
   width: 160px;
-  margin-bottom: 10px;
 }
